@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Luca Pasquale, I'm 23 and I live in Italy.
 - 🌱 I’m currently studying Computer Science at University of Verona and learning Flutter on my own.
-- 🔭 I’m currently working on UniCalendar, a mobile app to 
+- 🔭 I am currently working on UniCalendar, a mobile app useful for getting university class schedules, classroom availability and more.
